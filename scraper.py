@@ -8,7 +8,7 @@ def make_graph():
 	import re,urllib,networkx as nx
 	##pylab as plt
 	from collections import deque
-	from math import sqrt
+	from math import sqrt,exp
 	
 	"""
 	Wanted to use Matplotlib's colormaps but it seems installing it via pip is a pain, so instead I'm using an interpolating function for one of them: "RdBu"
@@ -39,7 +39,7 @@ def make_graph():
 		for y in g.nodes():
 			ratio = 1.0*g.degree(y)/maxdegree
 			c = cmap(ratio)
-			g.node[y]['viz']={'color':{'r':255*c[0],'g':255*c[1],'b':255*c[2],'a':0},'size': sqrt(ratio)*75}
+			g.node[y]['viz']={'color':{'r':255*c[0],'g':255*c[1],'b':255*c[2],'a':0},'size': exp(ratio)*50}
 		print '[X] Finished Coloring'		
 
 	colormap(G)
