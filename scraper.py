@@ -39,7 +39,7 @@ def make_graph():
 		for y in g.nodes():
 			ratio = 1.0*g.degree(y)/maxdegree
 			c = cmap(ratio)
-			g.node[y]['viz']={'color':{'r':255*c[0],'g':255*c[1],'b':255*c[2],'a':0},'size': sqrt(ratio)*30}
+			g.node[y]['viz']={'color':{'r':255*c[0],'g':255*c[1],'b':255*c[2],'a':0},'size': sqrt(ratio)*75}
 		print '[X] Finished Coloring'		
 
 	colormap(G)
