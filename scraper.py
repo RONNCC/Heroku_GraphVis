@@ -33,8 +33,8 @@ def make_graph():
 	def colormap(g):
 		print '[-] Started Coloring'
 		#what matplotlib color map?
-		CMAP1="RdBu"
-		CMAP2="cool"
+		CMAP1="Paired"
+		CMAP2="Paired"
 		from matplotlib.cm import get_cmap
 		cmap1 = get_cmap(name=CMAP1)
 		cmap2 = get_cmap(name=CMAP2)
