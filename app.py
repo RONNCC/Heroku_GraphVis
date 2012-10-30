@@ -13,7 +13,19 @@ def dinosaur():
 
 @app.route('/sigma')
 def sig():
-	return render_template('cat.html')
+	#import scraper
+	#scraper.make_graph()
+	return render_template('cat.html',name='MALgraph.gexf')
+
+@app.route('/css/<path:fn>')
+def css_static(fn):
+	return send_from_directory('/css/',fn)
+
+@app.route('/js/<path:fn>')
+def js_static(fn):
+	return send_from_directory(app.config['JS_STATIC'],fn)
+
+
 
 @app.route('/temp/<name>')
 def temp(name=None):
@@ -22,4 +34,4 @@ def temp(name=None):
 if __name__ == '__main__':
 	# Bind to PORT if defined, otherwise default to 5000
 	port = int(os.environ.get('PORT',5000))
-	app.run(host='0.0.0.0',port=port)
+	app.run(host='0.0.0.0',port=port,debug=True)
