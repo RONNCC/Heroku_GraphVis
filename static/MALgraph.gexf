@@ -3,1627 +3,1627 @@
     <nodes>
       <node id="Mushi-Uta" label="Mushi-Uta">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ookiku_Furikabutte" label="Ookiku_Furikabutte">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Jigoku_Shoujo" label="Jigoku_Shoujo">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Maria†Holic" label="Maria†Holic">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Shingetsutan_Tsukihime" label="Shingetsutan_Tsukihime">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Rosario_+_Vampire" label="Rosario_+_Vampire">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Tsubasa_Chronicle" label="Tsubasa_Chronicle">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kaze_no_Stigma" label="Kaze_no_Stigma">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Elfen_Lied" label="Elfen_Lied">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="The_Skull_Man" label="The_Skull_Man">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Angel_Beats!" label="Angel_Beats!">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Medaka_Box" label="Medaka_Box">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Texhnolyze" label="Texhnolyze">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Blade" label="Blade">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Phantom:_Requiem_for_the_Phantom" label="Phantom:_Requiem_for_the_Phantom">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Detroit_Metal_City" label="Detroit_Metal_City">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai" label="Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Goshuushou-sama_Ninomiya-kun" label="Goshuushou-sama_Ninomiya-kun">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Devil_Hunter_Yohko" label="Devil_Hunter_Yohko">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Loveless" label="Loveless">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Deadman_Wonderland" label="Deadman_Wonderland">
         <ns0:color a="0" b="45.0000013411" g="28.2352946699" r="180.117651522" />
-        <ns0:size value="52.7516174265" />
+        <ns0:size value="105.503234853" />
       </node>
       <node id="Lovely_Complex" label="Lovely_Complex">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hime_Chen!_Otogi_Chikku_Idol_Lilpri" label="Hime_Chen!_Otogi_Chikku_Idol_Lilpri">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Claymore" label="Claymore">
         <ns0:color a="0" b="45.0000013411" g="28.2352946699" r="180.117651522" />
-        <ns0:size value="52.7516174265" />
+        <ns0:size value="105.503234853" />
       </node>
       <node id="Nabari_no_Ou" label="Nabari_no_Ou">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Naruto" label="Naruto">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="To_LOVE-Ru" label="To_LOVE-Ru">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="First_Squad:_The_Moment_of_Truth" label="First_Squad:_The_Moment_of_Truth">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Blood-C" label="Blood-C">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Shikabane_Hime:_Kuro" label="Shikabane_Hime:_Kuro">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Tono_to_Issho:_Ippunkan_Gekijou" label="Tono_to_Issho:_Ippunkan_Gekijou">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ghost_in_the_Shell:_Stand_Alone_Complex" label="Ghost_in_the_Shell:_Stand_Alone_Complex">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Bakuman." label="Bakuman.">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="K" label="K">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Majin_Tantei_Nougami_Neuro" label="Majin_Tantei_Nougami_Neuro">
         <ns0:color a="0" b="45.0000013411" g="28.2352946699" r="180.117651522" />
-        <ns0:size value="52.7516174265" />
+        <ns0:size value="105.503234853" />
       </node>
       <node id="Baka_to_Test_to_Shoukanjuu" label="Baka_to_Test_to_Shoukanjuu">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Suzumiya_Haruhi_no_Yuuutsu" label="Suzumiya_Haruhi_no_Yuuutsu">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="X-Men" label="X-Men">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="InuYasha" label="InuYasha">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Accel_World" label="Accel_World">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Persona:_Trinity_Soul" label="Persona:_Trinity_Soul">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Itazura_na_Kiss" label="Itazura_na_Kiss">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Seikon_no_Qwaser" label="Seikon_no_Qwaser">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Seitokai_no_Ichizon" label="Seitokai_no_Ichizon">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Nogizaka_Haruka_no_Himitsu" label="Nogizaka_Haruka_no_Himitsu">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Innocent_Venus" label="Innocent_Venus">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Weiß_Kreuz" label="Weiß_Kreuz">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Spiral:_Suiri_no_Kizuna" label="Spiral:_Suiri_no_Kizuna">
         <ns0:color a="0" b="221.588237286" g="232.176471949" r="250.176470876" />
-        <ns0:size value="62.5044210564" />
+        <ns0:size value="125.008842113" />
       </node>
       <node id="Black_Lagoon" label="Black_Lagoon">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Oh!_Edo_Rocket" label="Oh!_Edo_Rocket">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Bakumatsu_Kikansetsu_Irohanihoheto" label="Bakumatsu_Kikansetsu_Irohanihoheto">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Tentai_Senshi_Sunred" label="Tentai_Senshi_Sunred">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Chihayafuru" label="Chihayafuru">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="MM!" label="MM!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ultraviolet:_Code_044" label="Ultraviolet:_Code_044">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Red_Garden" label="Red_Garden">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Sengoku_Basara" label="Sengoku_Basara">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Basilisk:_Kouga_Ninpou_Chou" label="Basilisk:_Kouga_Ninpou_Chou">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kobato." label="Kobato.">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Chuu_Bra!!" label="Chuu_Bra!!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Soredemo_Machi_wa_Mawatteiru" label="Soredemo_Machi_wa_Mawatteiru">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Spice_and_Wolf" label="Spice_and_Wolf">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ayakashi" label="Ayakashi">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="GetBackers" label="GetBackers">
         <ns0:color a="0" b="229.117648602" g="236.56862855" r="249.235294461" />
-        <ns0:size value="63.0649950829" />
+        <ns0:size value="126.129990166" />
       </node>
       <node id="Wolfs_Rain" label="Wolfs_Rain">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kami_nomi_zo_Shiru_Sekai" label="Kami_nomi_zo_Shiru_Sekai">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Zoku_Sayonara_Zetsubou_Sensei" label="Zoku_Sayonara_Zetsubou_Sensei">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Shinrei_Tantei_Yakumo" label="Shinrei_Tantei_Yakumo">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Violence_Jack" label="Violence_Jack">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Naruto:_Shippuuden" label="Naruto:_Shippuuden">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ikkitousen" label="Ikkitousen">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Special_A" label="Special_A">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Seitokai_Yakuindomo" label="Seitokai_Yakuindomo">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="DearS" label="DearS">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="11eyes" label="11eyes">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Sacred_Seven" label="Sacred_Seven">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hyouka" label="Hyouka">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Spectral_Force" label="Spectral_Force">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Beelzebub" label="Beelzebub">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Hakushaku_to_Yousei" label="Hakushaku_to_Yousei">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Devilman_Lady" label="Devilman_Lady">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Patalliro_Saiyuki!" label="Patalliro_Saiyuki!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Yu-Gi-Oh!" label="Yu-Gi-Oh!">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Ano_Natsu_de_Matteru" label="Ano_Natsu_de_Matteru">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Shugo_Chara!" label="Shugo_Chara!">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Dororon_Enma-kun_Meeramera" label="Dororon_Enma-kun_Meeramera">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hidan_no_Aria" label="Hidan_no_Aria">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Jigoku_Shoujo_Futakomori" label="Jigoku_Shoujo_Futakomori">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Pandora_Hearts" label="Pandora_Hearts">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Needless" label="Needless">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Tatakau_Shisho:_The_Book_of_Bantorra" label="Tatakau_Shisho:_The_Book_of_Bantorra">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Toriko" label="Toriko">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Hayate_no_Gotoku!" label="Hayate_no_Gotoku!">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Mitsudomoe" label="Mitsudomoe">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Another" label="Another">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Kemonozume" label="Kemonozume">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="UN-GO" label="UN-GO">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Star_Ocean_EX" label="Star_Ocean_EX">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Venus_Versus_Virus" label="Venus_Versus_Virus">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Higashi_no_Eden" label="Higashi_no_Eden">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Noein:_Mou_Hitori_no_Kimi_e" label="Noein:_Mou_Hitori_no_Kimi_e">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kono_Naka_ni_Hitori_Imouto_ga_Iru!" label="Kono_Naka_ni_Hitori_Imouto_ga_Iru!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ga-Rei:_Zero" label="Ga-Rei:_Zero">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Brave_Story" label="Brave_Story">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Zettai_Karen_Children" label="Zettai_Karen_Children">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Toaru_Kagaku_no_Railgun" label="Toaru_Kagaku_no_Railgun">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Tenshi_na_Konamaiki" label="Tenshi_na_Konamaiki">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kurokami" label="Kurokami">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Wild_Arms:_Twilight_Venom" label="Wild_Arms:_Twilight_Venom">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Durarara!!" label="Durarara!!">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Trinity_Blood" label="Trinity_Blood">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Tanken_Driland" label="Tanken_Driland">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kurozuka" label="Kurozuka">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hajime_no_Ippo" label="Hajime_no_Ippo">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kaiji" label="Kaiji">
         <ns0:color a="0" b="246.862745583" g="246.647059321" r="246.254902482" />
-        <ns0:size value="64.2012708344" />
+        <ns0:size value="128.402541669" />
       </node>
       <node id="Gosick" label="Gosick">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kyou_Koi_wo_Hajimemasu" label="Kyou_Koi_wo_Hajimemasu">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="He_is_My_Master" label="He_is_My_Master">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Shigofumi" label="Shigofumi">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Groove_Adventure_Rave" label="Groove_Adventure_Rave">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Haiyore!_Nyaruko-san" label="Haiyore!_Nyaruko-san">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Wolverine" label="Wolverine">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Arakawa_Under_the_Bridge_x_Bridge" label="Arakawa_Under_the_Bridge_x_Bridge">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Suzuka" label="Suzuka">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Full_Metal_Panic!" label="Full_Metal_Panic!">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Kaichou_wa_Maid-sama!" label="Kaichou_wa_Maid-sama!">
         <ns0:color a="0" b="255.0" g="0.0" r="255.0" />
-        <ns0:size value="89.3338207769" />
+        <ns0:size value="178.667641554" />
       </node>
       <node id="Rurouni_Kenshin" label="Rurouni_Kenshin">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Phi_Brain:_Kami_no_Puzzle_2nd_Season" label="Phi_Brain:_Kami_no_Puzzle_2nd_Season">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hakuouki" label="Hakuouki">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Persona_4_The_Animation" label="Persona_4_The_Animation">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Dragon_Ball" label="Dragon_Ball">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Sci-fi_Harry" label="Sci-fi_Harry">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="One_Outs" label="One_Outs">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="City_Hunter" label="City_Hunter">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Jormungand" label="Jormungand">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Samurai_Champloo" label="Samurai_Champloo">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Towa_no_Quon_1:_Utakata_no_Kaben" label="Towa_no_Quon_1:_Utakata_no_Kaben">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Cromartie_High_School" label="Cromartie_High_School">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Phi_Brain:_Kami_no_Puzzle" label="Phi_Brain:_Kami_no_Puzzle">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Rozen_Maiden" label="Rozen_Maiden">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hellsing" label="Hellsing">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Hikaru_no_Go" label="Hikaru_no_Go">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Isekai_no_Seikishi_Monogatari" label="Isekai_no_Seikishi_Monogatari">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Heroman" label="Heroman">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Gad_Guard" label="Gad_Guard">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Soul_Hunter" label="Soul_Hunter">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hyakka_Ryouran:_Samurai_Girls" label="Hyakka_Ryouran:_Samurai_Girls">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Monkey_Typhoon" label="Monkey_Typhoon">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Witch_Hunter_Robin" label="Witch_Hunter_Robin">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ghost_Hunt" label="Ghost_Hunt">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Binbougami_ga!" label="Binbougami_ga!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Gakuen_Heaven" label="Gakuen_Heaven">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Sayonara_Zetsubou_Sensei" label="Sayonara_Zetsubou_Sensei">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Saiyuki" label="Saiyuki">
         <ns0:color a="0" b="229.117648602" g="236.56862855" r="249.235294461" />
-        <ns0:size value="63.0649950829" />
+        <ns0:size value="126.129990166" />
       </node>
       <node id="Shikabane_Hime:_Aka" label="Shikabane_Hime:_Aka">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Shonan_Junai_Gumi" label="Shonan_Junai_Gumi">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Lucky_☆_Star" label="Lucky_☆_Star">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Guilty_Crown" label="Guilty_Crown">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Chobits" label="Chobits">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Steins;Gate" label="Steins;Gate">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Black_Blood_Brothers" label="Black_Blood_Brothers">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Arakawa_Under_the_Bridge" label="Arakawa_Under_the_Bridge">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="No.6" label="No.6">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="School_Rumble" label="School_Rumble">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="D.Gray-man" label="D.Gray-man">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Busou_Renkin" label="Busou_Renkin">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Prince_of_Tennis:_The_Two_Samurai_The_First_Game" label="Prince_of_Tennis:_The_Two_Samurai_The_First_Game">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Scryed" label="Scryed">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Kodomo_no_Omocha" label="Kodomo_no_Omocha">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Fruits_Basket" label="Fruits_Basket">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Zetman" label="Zetman">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Umineko_no_Naku_Koro_ni" label="Umineko_no_Naku_Koro_ni">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kyouran_Kazoku_Nikki" label="Kyouran_Kazoku_Nikki">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Rainbow:_Nisha_Rokubou_no_Shichinin" label="Rainbow:_Nisha_Rokubou_no_Shichinin">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Aishiteruze_Baby" label="Aishiteruze_Baby">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Tantei_Gakuen_Q" label="Tantei_Gakuen_Q">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Toradora!" label="Toradora!">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="NightWalker" label="NightWalker">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Darker_than_Black:_Kuro_no_Keiyakusha" label="Darker_than_Black:_Kuro_no_Keiyakusha">
         <ns0:color a="0" b="255.0" g="0.0" r="255.0" />
-        <ns0:size value="135.914091423" />
+        <ns0:size value="271.828182846" />
       </node>
       <node id="Solty_Rei" label="Solty_Rei">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Noir" label="Noir">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Gakuen_Alice" label="Gakuen_Alice">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Cowboy_Bebop" label="Cowboy_Bebop">
         <ns0:color a="0" b="41.3529422507" g="20.7058827579" r="167.705886513" />
-        <ns0:size value="52.2827172617" />
+        <ns0:size value="104.565434523" />
       </node>
       <node id="Druaga_no_Tou:_The_Aegis_of_Uruk" label="Druaga_no_Tou:_The_Aegis_of_Uruk">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Flame_of_Recca" label="Flame_of_Recca">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Level_E" label="Level_E">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Irresponsible_Captain_Tylor" label="Irresponsible_Captain_Tylor">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Shigurui" label="Shigurui">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Angel_Heart" label="Angel_Heart">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Qin_Shi_Ming_Yue" label="Qin_Shi_Ming_Yue">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Mayo_Chiki!" label="Mayo_Chiki!">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Ginban_Kaleidoscope" label="Ginban_Kaleidoscope">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Spriggan" label="Spriggan">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Slayers" label="Slayers">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="R.O.D_OVA" label="R.O.D_OVA">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Mahou_Senshi_Louie" label="Mahou_Senshi_Louie">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Inu_x_Boku_SS" label="Inu_x_Boku_SS">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Gun_x_Sword" label="Gun_x_Sword">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Kimi_ni_Todoke_2nd_Season" label="Kimi_ni_Todoke_2nd_Season">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Neon_Genesis_Evangelion" label="Neon_Genesis_Evangelion">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Arcana_Famiglia" label="Arcana_Famiglia">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Seikimatsu_Occult_Gakuin" label="Seikimatsu_Occult_Gakuin">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Tono_to_Issho" label="Tono_to_Issho">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Eureka_Seven" label="Eureka_Seven">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Black_Cat" label="Black_Cat">
         <ns0:color a="0" b="176.960788965" g="111.705884933" r="40.3333355486" />
-        <ns0:size value="77.4415149317" />
+        <ns0:size value="154.883029863" />
       </node>
       <node id="Fairy_Tail" label="Fairy_Tail">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Gyo" label="Gyo">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Saraiya_Goyou" label="Saraiya_Goyou">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Those_Who_Hunt_Elves_II" label="Those_Who_Hunt_Elves_II">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Mardock_Scramble:_The_First_Compression" label="Mardock_Scramble:_The_First_Compression">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Supernatural_The_Animation" label="Supernatural_The_Animation">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="FLCL" label="FLCL">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kakurenbo" label="Kakurenbo">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kikoushi_Enma" label="Kikoushi_Enma">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Keroro_Gunsou" label="Keroro_Gunsou">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Batman:_Gotham_Knight" label="Batman:_Gotham_Knight">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="X" label="X">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Hayate_no_Gotoku!!" label="Hayate_no_Gotoku!!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Skip_Beat!" label="Skip_Beat!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Akagi" label="Akagi">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Druaga_no_Tou:_The_Sword_of_Uruk" label="Druaga_no_Tou:_The_Sword_of_Uruk">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Uchuu_Kyoudai" label="Uchuu_Kyoudai">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Higurashi_no_Naku_Koro_ni" label="Higurashi_no_Naku_Koro_ni">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="07-Ghost" label="07-Ghost">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Otogi-jushi_Akazukin" label="Otogi-jushi_Akazukin">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Mouretsu_Pirates" label="Mouretsu_Pirates">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Blue_Gender" label="Blue_Gender">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Gunslinger_Girl" label="Gunslinger_Girl">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Shiritsu_Araiso_Koutougakkou_Seitokai_Shikkoubu" label="Shiritsu_Araiso_Koutougakkou_Seitokai_Shikkoubu">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Es_Otherwise" label="Es_Otherwise">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kiddy_Grade" label="Kiddy_Grade">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Mamoru-kun_ni_Megami_no_Shukufuku_wo!" label="Mamoru-kun_ni_Megami_no_Shukufuku_wo!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Bleach" label="Bleach">
         <ns0:color a="0" b="45.0000013411" g="28.2352946699" r="180.117651522" />
-        <ns0:size value="52.7516174265" />
+        <ns0:size value="105.503234853" />
       </node>
       <node id="Dr._Slump:_Arale-chan" label="Dr._Slump:_Arale-chan">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Tokko" label="Tokko">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Welcome_to_the_NHK!" label="Welcome_to_the_NHK!">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Junjou_Romantica" label="Junjou_Romantica">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="C" label="C">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Final_Fantasy_VII:_Advent_Children" label="Final_Fantasy_VII:_Advent_Children">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Chrno_Crusade" label="Chrno_Crusade">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Code_Geass:_Hangyaku_no_Lelouch_R2" label="Code_Geass:_Hangyaku_no_Lelouch_R2">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hunter_x_Hunter" label="Hunter_x_Hunter">
         <ns0:color a="0" b="222.352943122" g="197.6274544" r="147.235300541" />
-        <ns0:size value="70.8267880299" />
+        <ns0:size value="141.65357606" />
       </node>
       <node id="Bounen_no_Xamdou" label="Bounen_no_Xamdou">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Dantalian_no_Shoka" label="Dantalian_no_Shoka">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="SKET_Dance" label="SKET_Dance">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Bokura_ga_Ita" label="Bokura_ga_Ita">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Samurai_Deeper_Kyo" label="Samurai_Deeper_Kyo">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Otome_Youkai_Zakuro" label="Otome_Youkai_Zakuro">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Historys_Strongest_Disciple_Kenichi" label="Historys_Strongest_Disciple_Kenichi">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="The_Law_of_Ueki" label="The_Law_of_Ueki">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Ghost_Hound" label="Ghost_Hound">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="King_of_Bandit_Jing" label="King_of_Bandit_Jing">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Asu_no_Yoichi!" label="Asu_no_Yoichi!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="The_Big_O" label="The_Big_O">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Shakugan_no_Shana" label="Shakugan_no_Shana">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Hellsing_Ultimate" label="Hellsing_Ultimate">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Yondemasu_yo_Azazel-san._(TV)" label="Yondemasu_yo_Azazel-san._(TV)">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Trigun" label="Trigun">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Mnemosyne:_Mnemosyne_no_Musume-tachi" label="Mnemosyne:_Mnemosyne_no_Musume-tachi">
         <ns0:color a="0" b="41.3529422507" g="20.7058827579" r="167.705886513" />
-        <ns0:size value="52.2827172617" />
+        <ns0:size value="104.565434523" />
       </node>
       <node id="Kareshi_Kanojo_no_Jijou" label="Kareshi_Kanojo_no_Jijou">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Casshern_Sins" label="Casshern_Sins">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="K-On!" label="K-On!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Tengen_Toppa_Gurren_Lagann" label="Tengen_Toppa_Gurren_Lagann">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Tonari_no_Kaibutsu-kun" label="Tonari_no_Kaibutsu-kun">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Magi" label="Magi">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Mushrambo" label="Mushrambo">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Death_Note" label="Death_Note">
         <ns0:color a="0" b="57.000001967" g="53.6470598727" r="192.823533118" />
-        <ns0:size value="53.7020715358" />
+        <ns0:size value="107.404143072" />
       </node>
       <node id="Peace_Maker_Kurogane" label="Peace_Maker_Kurogane">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Blood+" label="Blood+">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Shuffle!" label="Shuffle!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Code:Breaker" label="Code:Breaker">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="El_Cazador_de_la_Bruja" label="El_Cazador_de_la_Bruja">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Night_Head_Genesis" label="Night_Head_Genesis">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Switch" label="Switch">
         <ns0:color a="0" b="41.3529422507" g="20.7058827579" r="167.705886513" />
-        <ns0:size value="52.2827172617" />
+        <ns0:size value="104.565434523" />
       </node>
       <node id="Vampire_Knight" label="Vampire_Knight">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Senkou_no_Night_Raid" label="Senkou_no_Night_Raid">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Muteki_Kanban_Musume" label="Muteki_Kanban_Musume">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Matantei_Loki_Ragnarok" label="Matantei_Loki_Ragnarok">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Code_Geass:_Hangyaku_no_Lelouch" label="Code_Geass:_Hangyaku_no_Lelouch">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Peach_Girl" label="Peach_Girl">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Maria-sama_ga_Miteru" label="Maria-sama_ga_Miteru">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="HeatGuy_J" label="HeatGuy_J">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Canaan" label="Canaan">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Gokujou!!_Mecha_Mote_Iinchou" label="Gokujou!!_Mecha_Mote_Iinchou">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Yamato_Nadeshiko_Shichi_Henge" label="Yamato_Nadeshiko_Shichi_Henge">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Mars_of_Destruction" label="Mars_of_Destruction">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ixion_Saga_DT" label="Ixion_Saga_DT">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Girls_Bravo:_First_Season" label="Girls_Bravo:_First_Season">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hunter_x_Hunter_(2011)" label="Hunter_x_Hunter_(2011)">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Uragiri_wa_Boku_no_Namae_wo_Shitteiru" label="Uragiri_wa_Boku_no_Namae_wo_Shitteiru">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Dai-Guard" label="Dai-Guard">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kuroshitsuji" label="Kuroshitsuji">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Tokyo_Majin_Gakuen_Kenpucho:_Tou" label="Tokyo_Majin_Gakuen_Kenpucho:_Tou">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Blassreiter" label="Blassreiter">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Outlaw_Star" label="Outlaw_Star">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Sasameki_Koto" label="Sasameki_Koto">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Devil_May_Cry" label="Devil_May_Cry">
         <ns0:color a="0" b="203.470591307" g="162.686280012" r="91.7843182385" />
-        <ns0:size value="73.4020288948" />
+        <ns0:size value="146.80405779" />
       </node>
       <node id="Dogs:_Bullets_&amp;_Carnage" label="Dogs:_Bullets_&amp;_Carnage">
         <ns0:color a="0" b="104.019613117" g="131.176474243" r="229.294119179" />
-        <ns0:size value="56.6574226533" />
+        <ns0:size value="113.314845307" />
       </node>
       <node id="Inukami!" label="Inukami!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Shaman_King" label="Shaman_King">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Karas" label="Karas">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="One_Piece" label="One_Piece">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Monster" label="Monster">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Akira" label="Akira">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Hana_Yori_Dango" label="Hana_Yori_Dango">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Togainu_no_Chi" label="Togainu_no_Chi">
         <ns0:color a="0" b="69.0000025928" g="79.0588250756" r="205.529414713" />
-        <ns0:size value="54.6696504853" />
+        <ns0:size value="109.339300971" />
       </node>
       <node id="Mushishi" label="Mushishi">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Nichijou" label="Nichijou">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Soul_Eater" label="Soul_Eater">
         <ns0:color a="0" b="41.3529422507" g="20.7058827579" r="167.705886513" />
-        <ns0:size value="52.2827172617" />
+        <ns0:size value="104.565434523" />
       </node>
       <node id="Kuragehime" label="Kuragehime">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Jungle_wa_Itsumo_Hare_nochi_Guu" label="Jungle_wa_Itsumo_Hare_nochi_Guu">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Zombie-Loan" label="Zombie-Loan">
         <ns0:color a="0" b="176.960788965" g="111.705884933" r="40.3333355486" />
-        <ns0:size value="77.4415149317" />
+        <ns0:size value="154.883029863" />
       </node>
       <node id="Speed_Grapher" label="Speed_Grapher">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Ouran_Koukou_Host_Club" label="Ouran_Koukou_Host_Club">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Mononoke_Hime" label="Mononoke_Hime">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Air_Gear" label="Air_Gear">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Kannagi" label="Kannagi">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hetalia_Axis_Powers" label="Hetalia_Axis_Powers">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Goku_Sayonara_Zetsubou_Sensei" label="Goku_Sayonara_Zetsubou_Sensei">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Princess_Tutu" label="Princess_Tutu">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Great_Teacher_Onizuka" label="Great_Teacher_Onizuka">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="UN-GO_episode:0_Inga-ron" label="UN-GO_episode:0_Inga-ron">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Bus_Gamer" label="Bus_Gamer">
         <ns0:color a="0" b="69.0000025928" g="79.0588250756" r="205.529414713" />
-        <ns0:size value="54.6696504853" />
+        <ns0:size value="109.339300971" />
       </node>
       <node id="R.O.D_the_TV" label="R.O.D_the_TV">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Zetsuen_no_Tempest" label="Zetsuen_no_Tempest">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Tears_to_Tiara" label="Tears_to_Tiara">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Katekyo_Hitman_Reborn!" label="Katekyo_Hitman_Reborn!">
         <ns0:color a="0" b="41.3529422507" g="20.7058827579" r="167.705886513" />
-        <ns0:size value="52.2827172617" />
+        <ns0:size value="104.565434523" />
       </node>
       <node id="Kite" label="Kite">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kore_wa_Zombie_Desu_ka" label="Kore_wa_Zombie_Desu_ka">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Fullmetal_Alchemist:_Brotherhood" label="Fullmetal_Alchemist:_Brotherhood">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Sankarea" label="Sankarea">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Witchblade" label="Witchblade">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Gakkou_no_Kaidan" label="Gakkou_no_Kaidan">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kara_no_Kyoukai_1:_Fukan_Fuukei" label="Kara_no_Kyoukai_1:_Fukan_Fuukei">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hatenkou_Yuugi" label="Hatenkou_Yuugi">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Working!!" label="Working!!">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Berserk" label="Berserk">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="xxxHOLiC" label="xxxHOLiC">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Monochrome_Factor" label="Monochrome_Factor">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Highschool_of_the_Dead" label="Highschool_of_the_Dead">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Kamisama_Hajimemashita" label="Kamisama_Hajimemashita">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Vampire_Knight_Guilty" label="Vampire_Knight_Guilty">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Sukitte_Ii_na_yo." label="Sukitte_Ii_na_yo.">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Detective_Conan" label="Detective_Conan">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kimi_ni_Todoke" label="Kimi_ni_Todoke">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Toaru_Majutsu_no_Index_II" label="Toaru_Majutsu_no_Index_II">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Minami-ke" label="Minami-ke">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Gantz" label="Gantz">
         <ns0:color a="0" b="213.000002503" g="180.333337784" r="119.6666722" />
-        <ns0:size value="72.1029121568" />
+        <ns0:size value="144.205824314" />
       </node>
       <node id="Gilgamesh" label="Gilgamesh">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Yumekui_Merry" label="Yumekui_Merry">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Phantom_Quest_Corp." label="Phantom_Quest_Corp.">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Bokurano" label="Bokurano">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Pokemon" label="Pokemon">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Gokusen" label="Gokusen">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Sword_Art_Online" label="Sword_Art_Online">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Panty_&amp;_Stocking_with_Garterbelt" label="Panty_&amp;_Stocking_with_Garterbelt">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Grenadier" label="Grenadier">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Akikan!" label="Akikan!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Tegami_Bachi" label="Tegami_Bachi">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Sunabouzu" label="Sunabouzu">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Yozakura_Quartet" label="Yozakura_Quartet">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Basquash!" label="Basquash!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Gyagu_Manga_Biyori" label="Gyagu_Manga_Biyori">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Iron_Man" label="Iron_Man">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Kamikaze_Kaitou_Jeanne" label="Kamikaze_Kaitou_Jeanne">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Excel_Saga" label="Excel_Saga">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Karakuri_Zoushi_Ayatsuri_Sakon" label="Karakuri_Zoushi_Ayatsuri_Sakon">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Angelic_Layer" label="Angelic_Layer">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Toaru_Majutsu_no_Index" label="Toaru_Majutsu_no_Index">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="SoulTaker" label="SoulTaker">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Gungrave" label="Gungrave">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Papuwa" label="Papuwa">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ookami-san_to_Shichinin_no_Nakamatachi" label="Ookami-san_to_Shichinin_no_Nakamatachi">
         <ns0:color a="0" b="207.705885172" g="170.5294168" r="104.176475555" />
-        <ns0:size value="72.7495707309" />
+        <ns0:size value="145.499141462" />
       </node>
       <node id="Weiß_Kreuz_Glühen" label="Weiß_Kreuz_Glühen">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Tiger_&amp;_Bunny" label="Tiger_&amp;_Bunny">
         <ns0:color a="0" b="244.392157495" g="240.294118524" r="232.843138576" />
-        <ns0:size value="65.3580194739" />
+        <ns0:size value="130.716038948" />
       </node>
       <node id="Yami_no_Matsuei" label="Yami_no_Matsuei">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Danshi_Koukousei_no_Nichijou" label="Danshi_Koukousei_no_Nichijou">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Bakemonogatari" label="Bakemonogatari">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Hanasakeru_Seishounen" label="Hanasakeru_Seishounen">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Starry☆Sky" label="Starry☆Sky">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Yakitate!!_Japan" label="Yakitate!!_Japan">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Fate" label="Fate">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Ao_no_Exorcist" label="Ao_no_Exorcist">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Dai_Mahou_Touge" label="Dai_Mahou_Touge">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Dragon_Ball_Z" label="Dragon_Ball_Z">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Ichi_The_Killer:_Episode_0" label="Ichi_The_Killer:_Episode_0">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Seto_no_Hanayome" label="Seto_no_Hanayome">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Asura_Cryin" label="Asura_Cryin">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Mahou_Shoujo_Madoka★Magica" label="Mahou_Shoujo_Madoka★Magica">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Zero_no_Tsukaima" label="Zero_no_Tsukaima">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Kamisama_no_Memochou" label="Kamisama_no_Memochou">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Fullmetal_Alchemist" label="Fullmetal_Alchemist">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
       <node id="Yu_Yu_Hakusho" label="Yu_Yu_Hakusho">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Mirai_Nikki_(TV)" label="Mirai_Nikki_(TV)">
         <ns0:color a="0" b="37.1176477149" g="12.2352943569" r="141.235297173" />
-        <ns0:size value="51.3573838053" />
+        <ns0:size value="102.714767611" />
       </node>
       <node id="Bobobo-bo_Bo-bobo" label="Bobobo-bo_Bo-bobo">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Karin" label="Karin">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Giant_Killing" label="Giant_Killing">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="School_Rumble_Ni_Gakki" label="School_Rumble_Ni_Gakki">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Gintama" label="Gintama">
         <ns0:color a="0" b="255.0" g="0.0" r="255.0" />
-        <ns0:size value="104.909118157" />
+        <ns0:size value="209.818236314" />
       </node>
       <node id="Btooom!" label="Btooom!">
         <ns0:color a="0" b="83.2352976501" g="104.117649347" r="217.529413998" />
-        <ns0:size value="55.6546628222" />
+        <ns0:size value="111.309325644" />
       </node>
       <node id="Baccano!" label="Baccano!">
         <ns0:color a="0" b="39.4705891237" g="16.9411768019" r="155.94118014" />
-        <ns0:size value="51.8179850707" />
+        <ns0:size value="103.635970141" />
       </node>
       <node id="Tokyo_Mew_Mew" label="Tokyo_Mew_Mew">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Campione!:_Matsurowanu_Kamigami_to_Kamigoroshi_no_Maou" label="Campione!:_Matsurowanu_Kamigami_to_Kamigoroshi_no_Maou">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Mayoi_Neko_Overrun!" label="Mayoi_Neko_Overrun!">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Ergo_Proxy" label="Ergo_Proxy">
         <ns0:color a="0" b="32.8823531792" g="3.76470595598" r="114.764707834" />
-        <ns0:size value="50.4484275009" />
+        <ns0:size value="100.896855002" />
       </node>
       <node id="Beet_the_Vandel_Buster" label="Beet_the_Vandel_Buster">
         <ns0:color a="0" b="35.2352945879" g="8.47058840096" r="129.4705908" />
-        <ns0:size value="50.9008767462" />
+        <ns0:size value="101.801753492" />
       </node>
     </nodes>
     <edges>
