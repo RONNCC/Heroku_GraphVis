@@ -2,7 +2,7 @@
 Scrapes MAL for animedata given a URL starting link!
 No parallelization because currently Google App Engine doesn't have much in the way of free computing power :/ and I don't want to accidentally eat a ton of MAL's server resources
 """
-DEPTH = 50
+DEPTH = 20
 Filename='MALgraph.gexf'
 def make_graph():
 	import re,urllib,networkx as nx
@@ -36,8 +36,9 @@ def make_graph():
 		cmap = get_cmap(name=CMAP)
 		maxdegree=max(g.degree(g.nodes()).values())
 		for y in g.nodes():
-			c = cmap(1.0*g.degree(y)/maxdegree)
-			g.node[y]['viz']={'color':{'r':255*c[0],'g':255*c[1],'b':255*c[2],'a':0}}
+			ratio = 1.0*g.degree(y)/maxdegree
+			c = cmap(ratio)
+			g.node[y]['viz']={'color':{'r':255*c[0],'g':255*c[1],'b':255*c[2],'a':0},'size': ratio*30}
 		print '[X] Finished Coloring'		
 
 	colormap(G)
