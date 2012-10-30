@@ -3,6 +3,7 @@ Scrapes MAL for animedata given a URL starting link!
 No parallelization because currently Google App Engine doesn't have much in the way of free computing power :/ and I don't want to accidentally eat a ton of MAL's server resources
 """
 DEPTH = 20
+NODE_SIZE_SCALE=100
 Filename='MALgraph.gexf'
 def make_graph():
 	import re,urllib,networkx as nx
@@ -32,14 +33,16 @@ def make_graph():
 	def colormap(g):
 		print '[-] Started Coloring'
 		#what matplotlib color map?
-		CMAP="RdBu"
+		CMAP1="RdBu"
+		CMAP2="cool"
 		from matplotlib.cm import get_cmap
-		cmap = get_cmap(name=CMAP)
+		cmap1 = get_cmap(name=CMAP1)
+		cmap2 = get_cmap(name=CMAP2)
 		maxdegree=max(g.degree(g.nodes()).values())
 		for y in g.nodes():
 			ratio = 1.0*g.degree(y)/maxdegree
-			c = cmap(ratio)
-			g.node[y]['viz']={'color':{'r':255*c[0],'g':255*c[1],'b':255*c[2],'a':0},'size': exp(ratio)*50}
+			c = cmap1(2*ratio) if ratio<=.5 else cmap2(2*ratio)
+			g.node[y]['viz']={'color':{'r':255*c[0],'g':255*c[1],'b':255*c[2],'a':0},'size': exp(ratio)*NODE_SIZE_SCALE}
 		print '[X] Finished Coloring'		
 
 	colormap(G)
