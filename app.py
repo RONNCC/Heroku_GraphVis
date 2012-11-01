@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-	return 'So sorry I haven't made a main page yet.... but Hello World! :D \nOnly the other links work ex. something.com/test'
+	return 'So sorry I haven\'t made a main page yet.... but Hello World! :D \nOnly the other links work ex. something.com/test'
 
 @app.route('/dino')
 def dinosaur():
