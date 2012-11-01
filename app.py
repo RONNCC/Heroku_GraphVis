@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-	return 'Hello World!'
+	return 'So sorry I haven't made a main page yet.... but Hello World! :D \nOnly the other links work ex. something.com/test'
 
 @app.route('/dino')
 def dinosaur():
@@ -16,6 +16,8 @@ def sig():
 	#import scraper
 	#scraper.make_graph()
 	return render_template('cat.html',name='MALgraph.gexf')
+
+@app.route('/college')
 
 @app.route('/css/<path:fn>')
 def css_static(fn):
