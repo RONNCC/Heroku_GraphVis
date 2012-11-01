@@ -18,6 +18,9 @@ def sig():
 	return render_template('cat.html',name='MALgraph.gexf')
 
 @app.route('/college')
+def col():
+	#return 'hi'
+	return render_template('cmain.html')
 
 @app.route('/css/<path:fn>')
 def css_static(fn):
