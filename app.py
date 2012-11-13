@@ -34,7 +34,7 @@ def css_static(fn):
 def static(fn):
 	return send_from_directory('/static/',fns)
 
-@#app.route('/js/<path:fnj>')
+#@app.route('/js/<path:fnj>')
 def js_static(fn):
 	return send_from_directory(app.config['JS_STATIC'],fnj)
 
