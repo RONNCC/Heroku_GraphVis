@@ -32,7 +32,7 @@ def css_static(fn):
 
 @app.route('/static/<path:fns>')
 def static(fn):
-	return send_from_directory('/static/',fns)
+	return send_from_directory('static/',fns)
 
 @app.route('/js/<path:fnj>')
 def js_static(fn):
