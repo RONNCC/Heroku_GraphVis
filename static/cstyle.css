@@ -89,7 +89,7 @@ a{
 header{
   width:100%;
   height:124px;
-  background:url(../img/headerbg.png) repeat-x top center;
+  background:url(headerbg.png) repeat-x top center;
   position:fixed;
   top:0; left:0;
   z-index:9999;
@@ -109,7 +109,7 @@ header{
     header #logo a{
       width:166px; height:120px;
       display:block;
-      background:url(../img/logo.png) no-repeat top center;
+      background:url(logo.png) no-repeat top center;
     }
 
     nav{
@@ -119,7 +119,7 @@ header{
       #main-menu{
         width:100%;
         height:43px;
-        background:url(../img/menubg.png) no-repeat top center;
+        background:url(menubg.png) no-repeat top center;
         padding:10px 0 0 0;
       }
 
@@ -142,6 +142,7 @@ header{
 			#main-menu li a:hover {
               background:#e6e2dc;
             }
+
 
             #main-menu li.active a, #main-menu li.active a:hover {
               background:#8ac9d0;
@@ -196,7 +197,7 @@ header{
 
            #services span.star{
             width:14px; height:14px;
-            background:url(../img/slogan-star.jpg) no-repeat center center;
+            background:url(slogan-star.jpg) no-repeat center center;
             position:absolute; 
             left:63%; top:150px;
             margin-left:-5px;
@@ -205,7 +206,7 @@ header{
 #featured{
   padding:124px 0 0 0;
   height:397px;
-  background:url(../img/featuredbg.jpg) repeat-x top center;
+  background:url(featuredbg.jpg) repeat-x top center;
 }
 
   .featured-img{
@@ -337,11 +338,11 @@ header{
 #companies{
   width:100%;
   height:50px;
-  background:url(../img/companiesbg.jpg) repeat-x top center;
+  background:url(companiesbg.jpg) repeat-x top center;
 }
 
   #companies .container{
-    background:url(../img/companies-borders.png) no-repeat 0 35px;
+    background:url(companies-borders.png) no-repeat 0 35px;
     height:100%;
   }
 
@@ -378,7 +379,7 @@ header{
       }
 
 #services{
-  background:#f3efe9 url(../img/bgservices.jpg) repeat top center;
+  background:#f3efe9 url(bgservices.jpg) repeat top center;
 }
   #services h2{
     font-size:60px;
@@ -403,7 +404,7 @@ header{
 
   #services .list{
     float:left; display:block;
-    background:url(../img/rarrow.png) no-repeat right 27px;
+    background:url(rarrow.png) no-repeat right 27px;
   }
 
     #services .list.nobg{
@@ -434,7 +435,7 @@ header{
       .list ul li{
         list-style:none;
         padding:0 0 0 24px;
-        background:url(../img/check.png) no-repeat left center;
+        background:url(check.png) no-repeat left center;
         height:28px; line-height:28px;
       }
 
@@ -478,7 +479,7 @@ header{
     }
 
 #work{
-  background:#484640 url(../img/workbg.jpg) repeat-x top center;
+  background:#484640 url(workbg.jpg) repeat-x top center;
   height:1114px;
 }
 
@@ -495,7 +496,7 @@ header{
     letter-spacing:7px;
     font-weight:normal;
     text-transform:uppercase;
-    background:url(../img/work-borders.png) no-repeat center center;
+    background:url(work-borders.png) no-repeat center center;
   }
 
   #work ul{
@@ -550,7 +551,7 @@ header{
       }
 
 #about{
-  background:#f3efe9 url(../img/bgservices.jpg) repeat top center;
+  background:#f3efe9 url(bgservices.jpg) repeat top center;
 }
 
   #about h2{
@@ -606,7 +607,7 @@ header{
   width:100%;
   height:auto;
   padding:0 0 65px 0;
-  background:url(../img/testimonialbg.jpg) repeat top center;
+  background:url(testimonialbg.jpg) repeat top center;
   border-top:1px solid #6f6353;
   border-bottom:1px solid #6f6353;
 }  
@@ -645,7 +646,7 @@ header{
         height:12px;
         display:block;
         position:absolute;
-        background:url(../img/bubble-arrow.png) no-repeat top center;
+        background:url(bubble-arrow.png) no-repeat top center;
         left:50%;
         bottom:-12px;
         margin-left:-15px;
@@ -679,7 +680,7 @@ header{
 #contact{
   width:100%;
   height:400px;
-  background:#8ac9d0 url(../img/contactbg.jpg) repeat top center;
+  background:#8ac9d0 url(contactbg.jpg) repeat top center;
 }
 
   #contact .container{
@@ -710,7 +711,7 @@ header{
         letter-spacing:2px;
         font-size:14px;
         text-align:center;
-        background:url(../img/contact-borders.png) no-repeat center center;
+        background:url(contact-borders.png) no-repeat center center;
         margin:3px 0 30px 0;
       }
 
@@ -909,19 +910,19 @@ header{
 	
 	p.star{
 	            width:14px; height:14px;
-            background:url(../img/slogan-star.jpg) no-repeat center center;
+            background:url(slogan-star.jpg) no-repeat center center;
             left:50%; top:4px;
             margin-left:-5px;
 	}
 	http://www.clker.com/cliparts/f/p/b/c/E/x/gray-heart-with-red-outline.svg
 
     .col-right p.phone{
-      background:url(../img/contact-sprite.png) no-repeat 0 2px;
+      background:url(contact-sprite.png) no-repeat 0 2px;
 	  margin: -25px 0 0 100px;
     }
 
     .col-right a.email{
-      background:url(../img/contact-sprite.png) no-repeat 0 -33px;
+      background:url(contact-sprite.png) no-repeat 0 -33px;
 	  margin: -25px 0 0 100px;
     }
 
@@ -941,7 +942,7 @@ header{
   bottom:27px;
   width:27px;
   height:190px;
-  background:url(../img/backtop.png) no-repeat top center;
+  background:url(backtop.png) no-repeat top center;
   text-indent:-9999em;
   display:none;
 }    
@@ -969,12 +970,12 @@ header{
 
   label.checkbox span.holder {
     height: 67px; /* Total height of your checkbox image */
-    background: url(../img/radiobtn.png) 0 0 no-repeat; /* Path to your checkbox image */
+    background: url(radiobtn.png) 0 0 no-repeat; /* Path to your checkbox image */
   }
   
   label.radio span.holder {
     height: 67px; /* Total height of your radio buttons image */
-    background: url(../img/radiobtn.png) 0 0 no-repeat; /* Path to your radio button image */
+    background: url(radiobtn.png) 0 0 no-repeat; /* Path to your radio button image */
   }
   
   label.checkbox:hover span.holder,

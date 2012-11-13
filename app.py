@@ -5,11 +5,11 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-	return 'So sorry I haven\'t made a main page yet.... but Hello World! :D \nOnly the other links work ex. something.com/test'
+	return render_template('hello.html')
 
 @app.route('/dino')
 def dinosaur():
-	return 'Dinosaur'
+	return render_template('dino.html')
 
 @app.route('/sigma')
 def sig():
@@ -21,6 +21,10 @@ def sig():
 def col():
 	#return 'hi'
 	return render_template('cmain.html')
+
+@app.route('/reader')
+def reader():
+	return render_template('reader.html')
 
 @app.route('/css/<path:fn>')
 def css_static(fn):
