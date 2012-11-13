@@ -26,15 +26,15 @@ def col():
 def reader():
 	return render_template('reader.html')
 
-@app.route('/css/<path:fnc>')
+#@app.route('/css/<path:fnc>')
 def css_static(fn):
 	return send_from_directory('/css/',fnc)
 
-@app.route('/static/<path:fns>')
+#@app.route('/static/<path:fns>')
 def static(fn):
-	return send_from_directory('static/',fns)
+	return send_from_directory('/static/',fns)
 
-@app.route('/js/<path:fnj>')
+@#app.route('/js/<path:fnj>')
 def js_static(fn):
 	return send_from_directory(app.config['JS_STATIC'],fnj)
 
