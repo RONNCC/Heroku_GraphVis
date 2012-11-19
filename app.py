@@ -11,6 +11,10 @@ def hello():
 def dinosaur():
 	return render_template('dino.html')
 
+@app.route('/mit')
+@app.route('/MIT')
+def MIT():
+	return render_template('MIT.html')	
 @app.route('/sigma')
 def sig():
 	#import scraper
