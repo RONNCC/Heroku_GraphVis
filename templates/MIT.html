@@ -33,6 +33,9 @@ function displayo()
 function displayt(){
 document.getElementById("text").innerHTML="<p>So Somehow you've gotten to the end ~ either you've miraculously read everything or you've skipped here.. and really I can't blame you for that, I mean that rambling is/was really long. Either way. Thank you! I mean you took time out of your day to read a random clueless student's quite silly rambling. So, thank you for that and have a nice Thanksgiving/Christmas/New Years :). (and I know you're thinking this is here because you're an admissions officer --> NO! It's really just politeness and the fact that you really didn't have to do this. It's much easier just to randomly choose students then to read through apps. By the way, if you let me in, I'm sorry to tell you that I'll want to work in the admissions office ~ It actually sounds fun to read apps o-o. Though I bet it gets tiring after some time... </p><p><img src=\"http://www.fuelcycles.com/wp-content/uploads/2011/09/thank-you.jpg\" height=\"300\"><p><img src=\"http://instantviewreview.files.wordpress.com/2012/09/funny-dog-pictures-come-again.jpg\" height=\"300\"></p></p>";
 }
+function displaywe(){
+document.getElementById("text").innerHTML="MITRE Federal Systems Security Division<br><br><br>Paid Intern. Sept. 2012 ~ to date<br><br><br>I am building a Dynamic Reputation System for the Domain Name System (DNS), an essential Internet protocol used by both legitimate Internet applications and cyber attackers. The cyber attacker that my system helps to identify specifically is the APT (Advanced Persistent Threat) which is responsible for a number of attacks on government agencies, corporations and political activists. They focus on stealth and accessibility rather than the smash-and-grab approach and tend to be focused on a specific set of data which has been pre-researched.<br><br><br><br>The premise of the research is that that malicious, agile use of DNS has unique characteristics, such as DNS TTL Records which specify how long to keep a DNS Record. Through machine learning on query and network data, APTs and malicious attackers can be distinguished from legitimate DNS services. The system once fully operational will identify malicious domains weeks or even months before they appear in public blacklists and will be able to in an offline recognition capacity. I am conducting my work under the mentorship of Dept. Head Mr. Fayad Amgad and Dr. Steven Gianvecchio.<br><br><br>NIST, Center for Neutron Research (NCNR) (Summer 2012)<br><br><br>Bayesian uncertainty modeling for parametric systems (BUMPS). BUMPS is a component of a small angle neutron scattering (SANS) modeler. In SANS one is able to find intensity data at a particular location but not how it bounced off the surface to get to said location. In order to find the structure, you then simulate the model positions and calculate expected particle intensities. In order to calculate the probability distribution for certain positions in order to attempt to recover uncertainty. In order to do this, we used Markov Chain Monte Carlo Methods (MCMC) which sampled the data to try and find the most probable (maximum likelihood estimation) as well as the one that fit the data the best.<br><br><br>The program uses expensive trajectory calculations as well as Markov Sampling Calculations and runs in parallel on a multicore server;I used a 48 core server. In order to take advantage of the multiple cores and reduce overhead, we looked into how to optimize the parallelization and efficiently combine the results from multiple Markov Chains.<br><br><br>In addition, I looked at optimization algorithm robustness (some of these were: the Nelder-Mead Simplex Algorithm, Newton\'s Method, Random Lines and Parallel Tempering) on a variable dimension Hermite spline in order to test successful convergence percentage and Markov chain convergence. To further determine Markov Chain Convergence, I looked at analytic convergence criterion for multidimensional Markov chains and multidimensional probability distributions. My work was done under the mentorship of scientist Paul Kienzle.";
+}
 </script>
 <style>
 body
@@ -67,6 +70,15 @@ position: absolute;
 left: 50%;
 top: 10px;
 }
+.horizdivider {
+border-top: 1px solid #4C7396;
+background: #16222C;
+width: 50%;
+height: 1px;
+position: absolute;
+left: 0%;
+top: 50%;
+}
 #text {
 height: 100%;
 width: 48%;
@@ -90,9 +102,23 @@ font-size:13px;
 <p id="button"><button type="button" onclick="displaye5()">Tell us about the most significant challenge you've faced or something important that didn't go according to plan. How did you manage the situation?</button></p>
 <p id="button"><button type="button" onclick="displaya()">Additional Info</button></p>
 <p id="button"><button type="button" onclick="displayo()">Random Other Things!</button></p>
+<p id="button"><button type="button" onclick="displaywe()">Work Experience Elaboration</button></p>
 <p id="button"><button type="button" onclick="displayt()">THANK YOU!</button></p>
 
 <div class="headerdivider"></div>
+<div class="horizdivider">
+<a href=\"http://www.graphvis.herokuapp.com">Home Page</a>
+<br>
+Some other things:
+<p> Two things I want to do but can't because I'm < 18 :(. Kaggle.com (tons cooler than USACO) & Mindsumo.com
+</p>
+<p>
+So I unwisely randomly cut off a part of my activities description page, so here's part of that~ Eh.... somewhere.. let me find it &gt;_&lt;
+</p>
+<p>
+
+</p>
+</div>
 <div id="text">
 <p> >> Everything related to writing is here! .. besides the club summaries.</p>
 <p>The Text will be put here when you click a button on the left. </p>
