@@ -10,6 +10,10 @@ def hello():
 @app.route('/dino')
 def dinosaur():
 	return render_template('dino.html')
+
+@app.route('/activities')
+def act():
+	return render_template('activities.html')
 	
 @app.route('/additionalinfo')
 def dinosaur():
