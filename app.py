@@ -18,6 +18,10 @@ def act():
 @app.route('/additionalinfo')
 def dinosaur():
 	return render_template('addinfo.html')
+
+@app.route('/resume')
+def resume():
+    return render_template('resume.html')
 	
 @app.route('/mit')
 @app.route('/MIT')
