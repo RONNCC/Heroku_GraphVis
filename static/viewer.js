@@ -17,7 +17,7 @@
 
 'use strict';
 
-var DEFAULT_URL = 'compressed.tracemonkey-pldi-09.pdf';
+var DEFAULT_URL = 'resume.pdf';
 var DEFAULT_SCALE = 'auto';
 var DEFAULT_SCALE_DELTA = 1.1;
 var UNKNOWN_SCALE = 0;
@@ -27,7 +27,7 @@ var SCROLLBAR_PADDING = 40;
 var VERTICAL_PADDING = 5;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 4.0;
-var IMAGE_DIR = './images/';
+var IMAGE_DIR = '../static/pdfjsimages/';
 var SETTINGS_MEMORY = 20;
 var ANNOT_MIN_SIZE = 10;
 var RenderingStates = {
@@ -43,7 +43,7 @@ var FindStates = {
   FIND_PENDING: 3
 };
 
-  PDFJS.workerSrc = '../build/pdf.js';
+  PDFJS.workerSrc = '../static/pdf.js';
 
 var mozL10n = document.mozL10n || document.webL10n;
 
