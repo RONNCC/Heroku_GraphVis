@@ -17,7 +17,7 @@
 
 'use strict';
 
-var DEFAULT_URL = '../static/resume.pdf';
+var DEFAULT_URL = '/static/resume.pdf';
 var DEFAULT_SCALE = 'auto';
 var DEFAULT_SCALE_DELTA = 1.1;
 var UNKNOWN_SCALE = 0;
