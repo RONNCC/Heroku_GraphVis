@@ -16,7 +16,7 @@ def act():
 	return render_template('activities.html')
 	
 @app.route('/additionalinfo')
-def dinosaur():
+def addinfo():
 	return render_template('addinfo.html')
 
 @app.route('/resume')
