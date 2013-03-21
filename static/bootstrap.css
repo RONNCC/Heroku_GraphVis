@@ -14,6 +14,9 @@
 {
 color:#B3B3B3;
 }
+
+
+
 #hlt_a
 {
 font-family: Georgia,"Times New Roman",Times,serif;
@@ -5905,3 +5908,10 @@ a.badge:hover {
 .affix {
   position: fixed;
 }
+
+
+#grayedout ul li a
+{
+color:#B3B3B3;
+}
+
