@@ -21,7 +21,7 @@ def addinfo():
 
 @app.route('/resume')
 def resume():
-    return render_template('resume.html')
+    return render_template('dino.html')
 	
 @app.route('/mit')
 @app.route('/MIT')
